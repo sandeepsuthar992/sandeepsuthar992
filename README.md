@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/sandeepsuthar992/sandeepsuthar992/blob/main/Sandeep!.jpg" width="1380px" ></p>
+<p align="center"><img src="https://github.com/sandeepsuthar992/sandeepsuthar992/blob/main/OK.jpg" width="1380px" ></p>
 <h1 align="center">नमस्ते (Namaste), I am Sandeep Suthar</h1>
 <p align="center">
 <i>A passionate Designer</i></p>
