@@ -8,11 +8,11 @@
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
-<a href="https://linkedin.com/in/sandeep-suthar-3a1822257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindriksarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/artistsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aindrik.in" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-suthar-3a1822257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep" height="30" width="40" /></a>
+<a href="https://instagram.com/artistsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsuthar992&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="iamaindrik" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsuthar992&theme=shades-of-purple&hide_border=false" alt="iamaindrik" /></p>
-<p align="center"><img align="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="iamaindrik" /></p>
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=sandeepsuthar992&icon=7&color=1" alt="iamaindrik" /> <p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsuthar992&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="sandeep" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsuthar992&theme=shades-of-purple&hide_border=false" alt="sandeep" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepsuthar992&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep" /> <p><a
