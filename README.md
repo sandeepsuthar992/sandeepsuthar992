@@ -14,3 +14,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsuthar992&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="iamaindrik" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsuthar992&theme=shades-of-purple&hide_border=false" alt="iamaindrik" /></p>
+<p align="center"><img align="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="iamaindrik" /></p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=sandeepsuthar992&icon=7&color=1" alt="iamaindrik" /> <p>
